@@ -1,0 +1,14 @@
+{
+  "name": "otis",
+  "version": "0.4.0",
+  "description": "Free business records through your AI: clients, work, expenses, invoices, payments, timers, business settings, tax settings and export.",
+  "author": {
+    "name": "Otisbase",
+    "url": "https://otisbase.com"
+  },
+  "homepage": "https://otisbase.com/skills",
+  "repository": "https://github.com/otisbase/otis-openai-plugin",
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
